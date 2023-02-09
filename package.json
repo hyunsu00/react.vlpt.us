@@ -1,0 +1,7 @@
+{
+  "name": "react.vlpt.us",
+  "version": "0.1.0",
+  "scripts": {
+    "begin-react": "npm --prefix ./begin-react run start"
+  }
+}

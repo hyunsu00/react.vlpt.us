@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "scripts": {
     "begin-react": "npm --prefix ./begin-react run start",
-    "error-catch": "npm --prefix ./error-catch run start"
+    "error-catch": "npm --prefix ./error-catch run start",
+    "useful-tools": "npm --prefix ./useful-tools run start"
   }
 }

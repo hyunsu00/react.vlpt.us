@@ -28,3 +28,6 @@
 24. [**클래스형 컴포넌트**](https://react.vlpt.us/basic/24-class-component.html)
 25. [**LifeCycle Method**](https://react.vlpt.us/basic/25-lifecycle.html)
 26. [componentDidCatch 로 에러 잡아내기 / Sentry 연동](https://react.vlpt.us/basic/26-componentDidCatch-and-sentry.html)
+27. [리액트 개발 할 때 사용하면 편리한 도구들 - Prettier, ESLint, Snippet](https://react.vlpt.us/basic/27-useful-tools.html)
+
+## 2장. 리액트 컴포넌트 스타일링하기

@@ -23,6 +23,16 @@
 			"sourceMapPathOverrides": {
 				"webpack:///src/*": "${webRoot}/*"
 			}
+		},
+		{
+			"name": "useful-tools 디버그",
+			"type": "chrome",
+			"request": "launch",
+			"url": "http://localhost:3000",
+			"webRoot": "${workspaceFolder}/useful-tools/src",
+			"sourceMapPathOverrides": {
+				"webpack:///src/*": "${webRoot}/*"
+			}
 		}
 	]
 }
